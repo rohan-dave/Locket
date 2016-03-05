@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "df5b27ee69ef61f802001e298cff49c4"
+build_time: [510524081, 675030000]
+inputs:
+  "/Users/Rohan/Development/Xcode/Locket/Locket/LocationViewController.swift": [510524081, 0]
+  "/Users/Rohan/Development/Xcode/Locket/Locket/LocketAnnotation.swift": [510524081, 0]
+  "/Users/Rohan/Development/Xcode/Locket/Locket/AppDelegate.swift": [510469946, 0]
+  "/Users/Rohan/Development/Xcode/Locket/Locket/FirstViewController.swift": [510469946, 0]
